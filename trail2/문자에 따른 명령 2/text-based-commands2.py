@@ -1,5 +1,4 @@
 dirs = input()
-dir=["N","E","S","W"]
 curr=0
 x=0
 y=0
